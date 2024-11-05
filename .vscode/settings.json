@@ -6,6 +6,7 @@
   "workbench.iconTheme": "r-sveltekit-icons",
 
   "explorer.sortOrder": "filesFirst",
+  "explorer.compactFolders": false,
 
   "breadcrumbs.enabled": false,
 
