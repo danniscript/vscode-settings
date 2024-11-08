@@ -33,7 +33,7 @@
     // "tsconfig.json": true,
     // "vite.config.ts": true,
     // "vite.config.ts.timestamp-*": true,
-	// "vite.config.js.timestamp-*": true,
+    // "vite.config.js.timestamp-*": true,
   },
 
   "svelte.enable-ts-plugin": true,
