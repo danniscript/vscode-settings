@@ -5,6 +5,8 @@
   "workbench.colorTheme": "Night Howl",
   "workbench.iconTheme": "r-sveltekit-icons",
   "workbench.sideBar.location": "right",
+  "workbench.tree.enableStickyScroll": false,
+
 
   "explorer.sortOrder": "filesFirst",
   "explorer.compactFolders": false,
