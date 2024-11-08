@@ -4,6 +4,7 @@
 
   "workbench.colorTheme": "Night Howl",
   "workbench.iconTheme": "r-sveltekit-icons",
+  "workbench.sideBar.location": "right",
 
   "explorer.sortOrder": "filesFirst",
   "explorer.compactFolders": false,
@@ -14,7 +15,7 @@
   "editor.colorDecorators": false,
   "editor.formatOnSave": true,
   "editor.folding": false,
-  "editor.lineNumbers": "off", // numbers
+  "editor.stickyScroll.enabled": false,
 
   "files.exclude": {
     // ".svelte-kit/": true,
@@ -30,7 +31,9 @@
     // "svelte.config.js": true,
     // "tailwind.config.ts": true,
     // "tsconfig.json": true,
-    // "vite.config.ts": true
+    // "vite.config.ts": true,
+    // "vite.config.ts.timestamp-*": true,
+		// "vite.config.js.timestamp-*": true,
   },
 
   "svelte.enable-ts-plugin": true,
