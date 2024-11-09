@@ -18,6 +18,7 @@
   "editor.formatOnSave": true,
   "editor.folding": false,
   "editor.stickyScroll.enabled": false,
+  "editor.lineNumbers": "off",
 
   "files.exclude": {
     // ".svelte-kit/": true,
