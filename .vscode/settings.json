@@ -15,7 +15,6 @@
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "editor.colorDecorators": false,
   "editor.formatOnSave": true,
-  "editor.folding": false,
   "editor.stickyScroll.enabled": false,
 
   "files.exclude": {
