@@ -4,7 +4,6 @@
 
   "workbench.colorTheme": "Night Howl",
   "workbench.iconTheme": "r-sveltekit-icons",
-  "workbench.sideBar.location": "right",
   "workbench.tree.enableStickyScroll": false,
   "workbench.tree.indent": 16,
 
@@ -18,7 +17,6 @@
   "editor.formatOnSave": true,
   "editor.folding": false,
   "editor.stickyScroll.enabled": false,
-  "editor.lineNumbers": "off",
 
   "files.exclude": {
     // ".svelte-kit/": true,
